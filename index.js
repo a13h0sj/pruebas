@@ -1,8 +1,7 @@
 const express= require('express');
 const app = express();
 app.get('*',(req,res)=>{
+    console.log('asdadqwe');
     res.send({message:'asdasd'})
 })
-app.listen(3000,()=>{
-    console.log('esc');
-})
+module.exports = app ;
