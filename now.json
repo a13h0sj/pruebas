@@ -3,9 +3,5 @@
     "name":"pruebas",
     "routes":[
         {"src":"(*)","dest":"index.js"}
-    ],
-    "env":{
-        "MONGODB_URI":"@mongodb-uri"
-    }
-    
+    ]
 }
