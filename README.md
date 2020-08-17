@@ -1,2 +1,2 @@
-# pruebas
-otra vez
+# repaso
+un repaso de lo hecho hasta hoy
